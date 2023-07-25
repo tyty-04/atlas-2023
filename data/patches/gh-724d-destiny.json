@@ -1,0 +1,54 @@
+{
+	"id": -1,
+	"name": "Destiny",
+	"description": "Destiny is a free-to-play online-only multiplayer first-person shooter video game franchise developed by Bungie. This art is mainly a memorial to the talented voice and screen actor Lance Reddick, famous for roles in The Wire, Fringe, John Wick, etc. To the Destiny community, he was the beloved Commander Zavala, leader of the Guardians. The memorial was made with help from many Destiny subreddits as well as the Horizon Zero Dawn community where he voices the character Sylens.\n\nThis art also depicts a famous Bungie phrase \"Per Audacia Ad Astra,\" Latin for \"Through Boldness to the Stars\". There is also a tricorn (the Destiny logo) and a depiction of the Traveler leaving Earth, a scene from the most recent expansion.\n\nCredit to u/ilayas for the art.",
+	"links": {
+		"website": [
+			"https://en.wikipedia.org/wiki/Destiny_(video_game)",
+			"https://www.bungie.net/7/en/destiny/newlight",
+			"https://en.wikipedia.org/wiki/Lance_Reddick"
+		],
+		"subreddit": [
+			"DestinyTheGame",
+			"Destiny2",
+			"HorizonZeroDawn"
+		],
+		"discord": [
+			"nV4YDcvG"
+		]
+	},
+	"path": {
+		"245": [
+			[
+				-805,
+				481
+			],
+			[
+				-709,
+				481
+			],
+			[
+				-709,
+				519
+			],
+			[
+				-791,
+				519
+			],
+			[
+				-791,
+				500
+			],
+			[
+				-805,
+				500
+			]
+		]
+	},
+	"center": {
+		"245": [
+			-757,
+			500
+		]
+	}
+}
